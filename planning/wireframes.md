@@ -4,18 +4,27 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 
 ## List of Pages
 
-[👉🏾👉🏾👉🏾 List the pages you expect to have in your app, with a ⭐ next to pages you have wireframed]
+- ⭐ Dashboard
+- ⭐ Settings/Integrations
+- ⭐ Create/Delete Tasks
+- Login / Sign Up Page
+- All Tasks / Task List View
+- Productivity / Progress Page
 
-## Wireframe 1: [page title]
+## Wireframe 1: Dashboard
 
-[👉🏾👉🏾👉🏾 include wireframe 1]
+<img width="1436" height="849" alt="dashboard_TaskMateAI" src="https://github.com/user-attachments/assets/0998d888-56c9-43c4-afb4-4735c36404f8" />
 
-## Wireframe 2: [page title]
 
-[👉🏾👉🏾👉🏾 include wireframe 2]
+## Wireframe 2: Settings/Integrations
 
-## Wireframe 3: [page title]
+<img width="1432" height="850" alt="settings_TaskMateAI" src="https://github.com/user-attachments/assets/329ad007-c690-4715-a083-7daca6df2ad5" />
 
-[👉🏾👉🏾👉🏾 include wireframe 3]
 
-[👉🏾👉🏾👉🏾 include more wireframes as desired]
+## Wireframe 3: Create/Delete Tasks
+
+### Create
+<img width="1434" height="847" alt="create_TaskMateAI" src="https://github.com/user-attachments/assets/29d140c7-1180-4274-8115-9ec19618d2ea" />
+
+### Edit
+<img width="1433" height="847" alt="edit_TaskMateAI" src="https://github.com/user-attachments/assets/f80f4ba2-26b0-4451-a973-0f78260c1a1d" />
