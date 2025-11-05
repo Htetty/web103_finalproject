@@ -44,6 +44,30 @@ Displays all assignments and events in a clean, color-coded weekly view that upd
 
 [gif goes here]
 
+## Intelligent Notifications
+
+Proactively sends reminders for important deadlines, meetings, and unread priority emails, helping students avoid last-minute panic.
+
+[gif goes here]
+
+## Manual Task Management
+
+Allows students to add personal to-dos, edit existing tasks, or mark items as complete, keeping the dashboard accurate and reflecting all responsibilities.
+
+[gif goes here]
+
+## AI Email Summarizer
+
+Scans the user's Gmail inbox for important messages (like from professors) and displays brief, AI-generated summaries directly in the dashboard, highlighting key action items.
+
+[gif goes here]
+
+## Dashboard Filtering
+
+Allows users to filter the task list and calendar view by category (e.g., "School," "Personal") or by source (e.g., "Canvas," "Gmail") to focus on one area at a time.
+
+[gif goes here]
+
 ### [ADDITIONAL FEATURES GO HERE - ADD ALL FEATURES HERE IN THE FORMAT ABOVE; you will check these off and add gifs as you complete them]
 
 ## Installation Instructions
